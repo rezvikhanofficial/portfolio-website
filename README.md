@@ -826,5 +826,4 @@
 ![image alt]([https://github.com/rezvikhanofficial/portfolio-website/blob/f65a85802a9fb9a2766351575729c9ee745d1c59/image.png_202605162048.jpeg))
 
 
-![image alt]([image url](https://github.com/rezvikhanofficial/portfolio-website/blob/9d0416c4b5f96eb1219bab04f487950eb0847006/src%3Dimage_7d6921.png.jpeg
-))
+
