@@ -823,8 +823,7 @@
 </body>
 </html>
 
-
-![image alt]([https://github.com/rezvikhanofficial/portfolio-website/blob/6ebc5836811c95392482c7a8e7d74d4c5c66ff48/image.png_202605162048.jpeg)
+![page alt]{[https://github.com/rezvikhanofficial/portfolio-website/blob/6ebc5836811c95392482c7a8e7d74d4c5c66ff48/image.png_202605162048.jpeg)] |
 
 ![image alt]([image url](https://github.com/rezvikhanofficial/portfolio-website/blob/9d0416c4b5f96eb1219bab04f487950eb0847006/src%3Dimage_7d6921.png.jpeg
 ))
